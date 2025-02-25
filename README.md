@@ -7,6 +7,7 @@ A Python-based Scientific Calculator built using Tkinter for the GUI. It support
 ✔️ User-Friendly GUI: A sleek black-and-white theme with easy-to-use buttons
 ✔️ Resizable Modes: Switch between Standard and Scientific view
 ✔️ Keyboard Support: Use your keyboard for quick calculations
+
 📦 Installation
 Clone the repository:
 bash
@@ -28,11 +29,13 @@ python calculator.py
 Python 🐍
 Tkinter (for GUI)
 Math Module (for calculations)
+
 📌 How to Use
 Click buttons or use your keyboard to enter numbers.
 Perform calculations using operators like +, -, ×, /.
 Access scientific functions in Scientific Mode.
 Press CE to clear the last entry or C to reset everything.
+
 🤝 Contributing
 Feel free to fork this repo, improve the UI, add new features, and submit a pull request!
 
